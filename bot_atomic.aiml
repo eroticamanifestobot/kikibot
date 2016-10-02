@@ -1,5 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <aiml version="2.0">
+ <category><pattern>HI</pattern><template>Hi sexy, I am Kiki sex bot></template></category>
+  <category><pattern>HELLO</pattern><templates>Hi sexy, I am Kiki sex bot</templates></category>
+  <category><pattern>HOLA</pattern><template>Hola sexy, I am Kiki sex bot</template></category>
+  <category><pattern>Salut</pattern><template>Je suis Kiki sex bot. Demandez une question de la sex avec WHAT IS ou WHAT ARE</template></category> 
+  <category><pattern>Bonjour</pattern><template>Je suis Kiki sex bot. Demandez une question de la sex avec WHAT IS ou WHAT ARE</template></category>
+  <category><pattern>WHAT IS THIS BOT</pattern><template>I am a sex guru bot here to answer all your sexual questions</template></category>
+  <category><pattern>HOW ARE YOU</pattern><template>Ask me a sex question starting with what is or what are</template></category>
+  <category><pattern>WHAT ARE YOU</pattern><template>I am a sex guru bot here to answer all your questions about sex></template></category>
+  <category><pattern>WHO ARE YOU</pattern><template>I am a sex guru bot here to answer all your questions about sex</template></category>
+  <category><pattern>HI THERE</pattern><template>Now don't be shy ask me a sex question</template></category>
+  <category><pattern>HOW DOES THIS WORK</pattern><template>Just ask me a sex question starting with WHAT IS or WHAT ARE.</template></category>
+  <category><pattern>WHAT DO YOU DO</pattern><template>I answer your deepest darkest kinky secrets</template></category>
   <category><pattern>WHAT IS AN ABC PARTY</pattern><template>Anything but clothes party</template></category>
 <category><pattern>WHAT IS ABR</pattern><template>ADULT BREAST FEEDING</template></category>
 <category><pattern>WHAT IS ABRASION</pattern><template>WEARING GRINDING OR RUBBING AWAY BY FRICTION BY STIMULATING THE SURFACE OF THE BODY WITH ABRASIVE MATERIALS SUCH AS LEATHER SANDPAPER AND ROUGH SILK</template></category>
